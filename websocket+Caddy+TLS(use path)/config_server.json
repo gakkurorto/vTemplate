@@ -13,7 +13,7 @@
       "settings": {
         "clients": [
           {
-            "alterId": 32,
+            "alterId": 4,
             "id": "04db923a-c856-4b39-b482-34d276d72630"
           }
         ]
@@ -30,12 +30,12 @@
     {
       "tag": "direct",
       "protocol": "freedom",
-      "settings": null
+      "settings": {}
     },
     {
       "tag": "blocked",
       "protocol": "blackhole",
-      "settings": null
+      "settings": {}
     }
   ],
   "routing": {

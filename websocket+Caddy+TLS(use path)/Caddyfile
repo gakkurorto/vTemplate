@@ -1,5 +1,5 @@
 example.domain {
-    root /usr/share/caddy
-    file_server
+	root /usr/share/caddy
+	file_server
 	reverse_proxy /random_euyvcvush localhost:1234
 }
